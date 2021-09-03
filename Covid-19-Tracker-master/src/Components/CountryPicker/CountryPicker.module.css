@@ -1,0 +1,16 @@
+.formControl {
+    width: 100%;
+    margin-bottom: 30px !important;
+  }
+
+*{
+    transition: all 1s ease;
+}
+
+@media only screen and (max-width: 770px) {
+  .formControl {
+    width: 100%;
+    margin-bottom: 30px !important;
+  }
+
+}
